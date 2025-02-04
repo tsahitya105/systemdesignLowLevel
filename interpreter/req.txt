@@ -1,0 +1,18 @@
+ Calculate a*b + c*d
+// Grammar bases
+ Context Map
+ a =5
+ b=6
+ c =7
+ e=8
+
+ a -> Terminal Expression
+
+ a*b -> Non TE  (left expression, right expression)
+
+
+
+ e1 = new NTE(new Te('a'), new TE('b'));
+
+
+
